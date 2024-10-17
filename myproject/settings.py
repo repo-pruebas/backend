@@ -42,9 +42,9 @@ INSTALLED_APPS = [
     'api',
 ]
 
-# CORS_ALLOWED_ORIGINS = [
-#     "https://react-frontend.onrender.com",  # Cambia esto por el dominio de tu frontend
-# ]
+CORS_ALLOWED_ORIGINS = [
+    "https://react-frontend-itpk.onrender.com",
+]
 
 
 MIDDLEWARE = [
